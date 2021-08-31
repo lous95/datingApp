@@ -1669,19 +1669,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\DELL\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\DatingApp\\datingApp\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\ang+.net\\datingapp\\api\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\User\\Desktop\\DatingApp\\datingApp\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\DatingApp\\datingApp\\API\\obj\\",
+      "projectPath": "C:\\Users\\DELL\\Desktop\\ang+.net\\datingapp\\api\\API.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DELL\\Desktop\\ang+.net\\datingapp\\api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1690,7 +1690,7 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {},
-        "https://zeva.pkgs.visualstudio.com/_packaging/ZevaFeed/nuget/v3/index.json": {}
+        "https://zeva.pkgs.visualstudio.com/_packaging/ZevaFeed%40Local/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
@@ -1753,7 +1753,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
